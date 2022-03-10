@@ -24,5 +24,5 @@ a {
 </style>
 
 <script setup>
-// window.location.replace("https://and249.codes/");
+window.location.replace("https://and249.codes/");
 </script>
