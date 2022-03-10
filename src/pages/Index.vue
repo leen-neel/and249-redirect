@@ -8,14 +8,6 @@
   </q-page>
 </template>
 
-<script>
-import { defineComponent } from "vue";
-
-export default defineComponent({
-  name: "PageIndex",
-});
-</script>
-
 <style lang="scss" scoped>
 img {
   max-width: 100px;
@@ -30,3 +22,7 @@ a {
   }
 }
 </style>
+
+<script setup>
+// window.location.replace("https://and249.codes/");
+</script>
