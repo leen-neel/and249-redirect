@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center column q-gutter-md">
     <img src="/AppIcon.png" />
-    <div class="text-h6">
+    <div class="text-h6 text-center">
       Greetings! The site has been moved to a new domain. Click
       <a href="https://and249.codes/">here</a> if it doesn't redirect.
     </div>
@@ -10,7 +10,7 @@
 
 <style lang="scss" scoped>
 img {
-  max-width: 100px;
+  max-width: 200px;
 }
 
 a {
